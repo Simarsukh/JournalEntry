@@ -1,0 +1,11 @@
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\bin\Debug\netcoreapp2.1\JournalEntry.deps.json
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\bin\Debug\netcoreapp2.1\JournalEntry.runtimeconfig.json
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\bin\Debug\netcoreapp2.1\JournalEntry.runtimeconfig.dev.json
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\bin\Debug\netcoreapp2.1\JournalEntry.dll
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\bin\Debug\netcoreapp2.1\JournalEntry.pdb
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\obj\Debug\netcoreapp2.1\JournalEntry.csprojAssemblyReference.cache
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\obj\Debug\netcoreapp2.1\JournalEntry.csproj.CoreCompileInputs.cache
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\obj\Debug\netcoreapp2.1\JournalEntry.AssemblyInfoInputs.cache
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\obj\Debug\netcoreapp2.1\JournalEntry.AssemblyInfo.cs
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\obj\Debug\netcoreapp2.1\JournalEntry.dll
+U:\Users\739292\source\repos\JournalEntry\JournalEntry\obj\Debug\netcoreapp2.1\JournalEntry.pdb
